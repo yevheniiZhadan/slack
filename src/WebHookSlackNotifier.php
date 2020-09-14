@@ -1,6 +1,6 @@
 <?php
 
-namespace YevheniiZhadan\Slack;
+namespace yevheniiZhadan\Slack;
 
 class WebHookSlackNotifier implements iNotifier
 {
